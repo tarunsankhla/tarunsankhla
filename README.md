@@ -26,6 +26,17 @@
 
 - 📄 Know about my work & experiences [My Resume](https://tarunsankhla.github.io/files/TarunSankhla_Resume.pdf)
 
+
+### Check my blogs :fire:
+<!-- BLOG-POST-LIST:START -->
+- [Fundamentals about Neo4j and Cypher Query](https://tarunsankhla.hashnode.dev/neo4j-and-cypher-query)
+
+- [Application Layer Protocol Negotiation](https://tarunsankhla.hashnode.dev/application-layer-protocol-negotiation)
+
+- [Autofocus script in Unity Vuforia for Ar camera](https://tarunsankhla.hashnode.dev/autofocus-script-in-unity-vuforia-for-ar-camera)
+
+- [Case Study: Neo4j and Cypher Query (Intermediate)](https://tarunsankhla.hashnode.dev/neo4j-and-cypher-query-part-2)
+<!-- BLOG-POST-LIST:END -->
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
