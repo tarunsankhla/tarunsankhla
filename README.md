@@ -11,7 +11,7 @@ Here are some ideas to get you started:
          width="45" />, I'm Tarun Sankhla</h1>
          <h3 align="center">I’m a Software engineer. I like to make digital experiences simpler for people.💜</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsankhla&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsankhla" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsankhla&label=Profile%20views&color=blueviolet&style=flat" alt="tarunsankhla" /> </p>
 <p>
 <a align= "center" href="https://github.com/tarunsankhla">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=tarunsankhla&theme=cobalt&show_icons=true&count_private=true" />
