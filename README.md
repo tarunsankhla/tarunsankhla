@@ -1,9 +1,4 @@
 
-<!--
-**tarunsankhla/tarunsankhla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -17,15 +12,20 @@ Here are some ideas to get you started:
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=tarunsankhla&theme=cobalt&show_icons=true&count_private=true" />
   </a>
 </p>
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+<p align="left"> <a href="https://twitter.com/tarunsankhla21" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsankhla21?logo=twitter&style=for-the-badge" alt="tarunsankhla21" /></a> </p>
+
+- 🔭 I’m currently working on C# and GRPC
+
+- 🌱 I’m currently learning about Azure and Data Analytics
+
+- 👨‍💻 All about me is at [My Website](https://tarunsankhla.github.io/)
+
+- 📝 Sometimes I write articles on [Hashnode](https://tarunsankhla.hashnode.dev/)
+
 - 📫 How to reach me: **tarunsankhla21@gmail.com**
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+- 📄 Know about my work & experiences [My Resume](https://tarunsankhla.github.io/files/TarunSankhla_Resume.pdf)
+
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
