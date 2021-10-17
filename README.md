@@ -14,7 +14,7 @@
 </p>
 <p align="left"> <a href="https://twitter.com/tarunsankhla21" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsankhla21?logo=twitter&style=for-the-badge" alt="tarunsankhla21" /></a> </p>
 
-- 🔭 I’m currently working on C# and GRPC
+- 🔭 I’m currently working on C# and GRPC and Azure
 
 - 🌱 I’m currently learning about Azure and Data Analytics
 
