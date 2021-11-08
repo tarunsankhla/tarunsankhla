@@ -8,11 +8,21 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsankhla&label=Profile%20views&color=blueviolet&style=flat" alt="tarunsankhla" /> </p>
 <p>
-<a align= "center" href="https://github.com/tarunsankhla">
+<!-- <a align= "center" href="https://github.com/tarunsankhla">
   <img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=tarunsankhla&theme=cobalt&show_icons=true&count_private=true" />
-  </a>
+  </a> -->
 </p>
-<p align="left"> <a href="https://twitter.com/tarunsankhla21" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsankhla21?logo=twitter&style=for-the-badge" alt="tarunsankhla21" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/tarunsankhla21" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsankhla21?logo=twitter&style=for-the-badge" alt="tarunsankhla21" /></a> </p> -->
+<p>
+         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsankhla&theme=radical" alt="tarunsankhla" />
+</p>
+<p>
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunsankhla&count_private=true&theme=radical" alt="tarunsankhla" />
+</p>
+<br/>
+<br/>
+<br/>
+<hr>
 
 - 🔭 I’m currently working on C# and GRPC and Azure
 
@@ -38,6 +48,8 @@
 - [Case Study: Neo4j and Cypher Query (Intermediate)](https://tarunsankhla.hashnode.dev/neo4j-and-cypher-query-part-2)
 <!-- BLOG-POST-LIST:END -->
 <hr>
+
+<p align="left"> <a href="https://twitter.com/tarunsankhla21" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsankhla21?logo=twitter&style=for-the-badge" alt="tarunsankhla21" /></a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/tarunsankhla21" target="blank"><img align="center" src="https://img.icons8.com/fluency/2x/twitter-circled.png" alt="tarunsankhla21" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
