@@ -14,7 +14,7 @@
 </p>
 <!-- <p align="left"> <a href="https://twitter.com/tarunsankhla21" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsankhla21?logo=twitter&style=for-the-badge" alt="tarunsankhla21" /></a> </p> -->
 <p>
-         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsankhla&theme=radical" alt="tarunsankhla" />
+         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsankhla&hide=java&theme=radical" alt="tarunsankhla" />
 </p>
 <p>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunsankhla&count_private=true&theme=radical" alt="tarunsankhla" />
