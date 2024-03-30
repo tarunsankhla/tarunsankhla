@@ -49,6 +49,12 @@
 <!-- BLOG-POST-LIST:END -->
 <hr>
 
+<p>
+- Google Developer Students Club member Mumbai India, I have served in leadership positions with Google Student Developer Club Mumbai (12,000 students) it involved the responsibility of hosting events, networking with other clubs and college campuses, managing community - involves daily email, recruitment process, attending camps for advertising and making students aware of the community and communicating to university to engage students,  hosting hackathons and raising sponsors and marketing events, organizing tech events, community meetups, and boot camps focused on React JS, Android, and Web.
+<br/>
+- For 3 years, I've been a member of the Google Developer Students Club for Mumbai, which is where I participated extensively in organizing technological advances events, community gatherings, and boot camps focused on React JS, Android, and Web. My primary success was hosting the Google Developers Event Mumbai 2018 with a footprint of 15,000 students.
+</p>
+
 <p align="left"> <a href="https://twitter.com/tarunsankhla21" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsankhla21?logo=twitter&style=for-the-badge" alt="tarunsankhla21" /></a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
