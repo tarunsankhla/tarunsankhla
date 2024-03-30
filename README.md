@@ -24,9 +24,9 @@
 <br/>
 <hr>
 
-- 🔭 I’m currently working on C# and GRPC and Azure
+- 🔭 I’m currently working on React JS, JAVA, Terraform and CI/CD
 
-- 🌱 I’m currently learning about Azure and Data Analytics
+- 🌱 I’m currently learning about System Design, Go and AWS
 
 - 👨‍💻 All about me is at [My Website](https://tarunsankhla.github.io/)
 
